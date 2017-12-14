@@ -1,0 +1,27 @@
+$ mkdir curso-git >>>>>>>> criando pasta
+
+$ cd curso-git/
+
+$ git init >>>>>>>>>>> tornando pasta repositorio
+
+$ git ls-files >>>>>>>> mostra arquivo a qual o git está controlando
+
+$ git status >>>>>>>> mostra status atual do repositório
+
+$ git add meurquivo.html >>>>>>>>>>>> adiciona o arquivo a ser monitorado 
+
+$ git comit -m "Criando projeto" >>>>>>>>>>>>>>> gravando alterações feitas
+
+
+
+
+================"""""""""""""Sicronizando e criando repositórios remotos""""""""""""""=============================
+
+$ git remote add origin https://github.com/jr-martins/hello-world.git
+
+$ git remote
+
+$ git push origin master
+
+
+===============================""""""""""""""""""""=======================================================================
