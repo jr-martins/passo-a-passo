@@ -1,3 +1,5 @@
+============================"""""""""""""""Ciclo básico do Git/ Criando repositório"""""""""==================
+
 $ mkdir curso-git >>>>>>>> criando pasta
 
 $ cd curso-git/
