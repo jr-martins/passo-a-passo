@@ -15,6 +15,9 @@ $ git add meurquivo.html >>>>>>>>>>>> adiciona o arquivo a ser monitorado
 $ git comit -m "Criando projeto" >>>>>>>>>>>>>>> gravando alterações feitas
 
 
+$ git push origin master >>>>>>>>>>>>>>>>> enviado arquivos alterados
+
+
 
 
 ================"""""""""""""Sicronizando e criando repositórios remotos""""""""""""""=============================
@@ -41,5 +44,9 @@ $ git push -u origin designer >>>>>>>>>>>> deve ser igual a brach local
 $ git pull >>>>>>>>>>>>>>>>>>> traz as atualizações
 
 $ git branch -r >>>>>>>>>>>>>>>>>>> mostra as branch remotas
+
+$ git branch -t design origin/design >>>>>>>>>>>>>>>>>> cria uma nova branch com as mesma configuração de uma já existente
+
+
 
 
