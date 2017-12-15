@@ -2,7 +2,7 @@
 
 $ mkdir curso-git >>>>>>>> criando pasta
 
-$ cd curso-git/
+$ cd curso-git/ >>>>>>>>>> acessando repositório
 
 $ git init >>>>>>>>>>> tornando pasta repositorio
 
