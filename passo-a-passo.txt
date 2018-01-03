@@ -1,18 +1,18 @@
-============================"""""""""""""""Ciclo b·sico do Git/ Criando repositÛrio!!"""""""""==================
+============================"""""""""""""""Ciclo b√°sico do Git/ Criando reposit√≥rio!!"""""""""==================
 
 $ mkdir curso-git >>>>>>>> criando pasta
 
-$ cd curso-git/ >>>>>>>>>>>> acessando repÛsitorio
+$ cd curso-git/ >>>>>>>>>>>> acessando rep√≥sitorio
 
 $ git init >>>>>>>>>>> tornando pasta repositorio
 
-$ git ls-files >>>>>>>> mostra arquivo a qual o git est· controlando
+$ git ls-files >>>>>>>> mostra arquivo a qual o git est√° controlando
 
-$ git status >>>>>>>> mostra status atual do repositÛrio
+$ git status >>>>>>>> mostra status atual do reposit√≥rio
 
-$ git add meurquivo.html >>>>>>>>>>>> adiciona o arquivo a ser monitorado 
+$ git add meurquivo.html >>>>>>>>>>>> adiciona o arquivo a ser monitorado ou git add .
 
-$ git comit -m "Criando projeto" >>>>>>>>>>>>>>> gravando alteraÁıes feitas
+$ git comit -m "Criando projeto" >>>>>>>>>>>>>>> gravando altera√ß√µes feitas
 
 
 $ git push origin master >>>>>>>>>>>>>>>>> enviado arquivos alterados
@@ -20,7 +20,7 @@ $ git push origin master >>>>>>>>>>>>>>>>> enviado arquivos alterados
 
 
 
-================"""""""""""""Sicronizando e criando repositÛrios remotos""""""""""""""=============================
+================"""""""""""""Sicronizando e criando reposit√≥rios remotos""""""""""""""=============================
 
 $ git remote add origin https://github.com/jr-martins/hello-world.git
 
@@ -31,9 +31,9 @@ $ git push origin master >>>>>>>>>>>>>>>>> enviado arquivos alterados
 
 ===============================""""""""""""""""""""=======================================================================
 
-OrganizaÁ„o do trabalho com branches
+Organiza√ß√£o do trabalho com branches
 
-$ git branch >>>>>>>>>>>>>> verifica em qual branch est· trabalhando
+$ git branch >>>>>>>>>>>>>> verifica em qual branch est√° trabalhando
 
 $ git branch designer >>>>>>>>>>>> criou a branch com o nome designer
 
@@ -41,11 +41,11 @@ $ git checkout designer >>>>>>>>>>> mudando para brancher designer
 
 $ git push -u origin designer >>>>>>>>>>>> deve ser igual a brach local
 
-$ git pull >>>>>>>>>>>>>>>>>>> traz as atualizaÁıes
+$ git pull >>>>>>>>>>>>>>>>>>> traz as atualiza√ß√µes
 
 $ git branch -r >>>>>>>>>>>>>>>>>>> mostra as branch remotas
 
-$ git branch -t design origin/design >>>>>>>>>>>>>>>>>> cria uma nova branch com as mesma configuraÁ„o de uma j· existente
+$ git branch -t design origin/design >>>>>>>>>>>>>>>>>> cria uma nova branch com as mesma configura√ß√£o de uma j√° existente
 
 
 
