@@ -20,9 +20,12 @@ $ git push origin master >>>>>>>>>>>>>>>>> enviado arquivos alterados
 
 
 
+
 ================"""""""""""""Sicronizando e criando repositórios remotos""""""""""""""=============================
 
 $ git remote add origin https://github.com/jr-martins/hello-world.git
+
+$ git clone -------------- projetos metasix
 
 $ git remote
 
